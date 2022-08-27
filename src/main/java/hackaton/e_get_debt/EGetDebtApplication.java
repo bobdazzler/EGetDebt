@@ -1,4 +1,4 @@
-package Hackaton.E_Get_Debt;
+package hackaton.e_get_debt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
